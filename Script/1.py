@@ -16,4 +16,6 @@ print(token)
 # print(tuple1[::-1])
 # print(tuple1[2:4])
 
+print(2^2)
+
 

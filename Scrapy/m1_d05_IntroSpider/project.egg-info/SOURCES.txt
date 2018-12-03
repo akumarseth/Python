@@ -1,0 +1,15 @@
+setup.py
+m1_d05_IntroSpider/__init__.py
+m1_d05_IntroSpider/items.py
+m1_d05_IntroSpider/middlewares.py
+m1_d05_IntroSpider/pipelines.py
+m1_d05_IntroSpider/settings.py
+m1_d05_IntroSpider/spiders/ExtractCurrencyCode.py
+m1_d05_IntroSpider/spiders/FinalSpider.py
+m1_d05_IntroSpider/spiders/IntroSpider.py
+m1_d05_IntroSpider/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
