@@ -5,10 +5,15 @@ mydb = mysql.connector.connect(
   port='3307',
   user="root",
   password="Admin@123",
-   database="pythndb"
+  database="pythndb"
 )
 
 mycursor = mydb.cursor()
+
+mycursor.callproc('PythonStoredProc')
+
+for result in mycursor.stored_results():
+    print(result.fetchall())
 
 #mycursor.execute("CREATE DATABASE pythndb")
 
@@ -58,13 +63,13 @@ mycursor = mydb.cursor()
 
 # print("1 record inserted, id:", mycursor.lastrowid)
 
-mycursor.execute("SELECT * FROM customers")
+#mycursor.execute("SELECT * FROM customers")
 
 # myresult = mycursor.fetchall()
 
 # for x in myresult:
   # print(x)
 
-myresult = mycursor.fetchone()
+#myresult = mycursor.fetchone()
 
-print(myresult)
+#print(myresult)

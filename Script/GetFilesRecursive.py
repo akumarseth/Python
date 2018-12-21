@@ -7,4 +7,4 @@ def print_directory_contents(sPath):
         else:
             print(sChildPath)
 
-print_directory_contents("D:\Python");
+print_directory_contents("D:\Python\DataStructure");

@@ -1,5 +1,4 @@
 class Stack:
-
     # Constructor
     def __init__(self):
         self.stack = list()

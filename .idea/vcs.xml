@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Flask/Build RESTAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi" vcs="Git" />
   </component>
 </project>

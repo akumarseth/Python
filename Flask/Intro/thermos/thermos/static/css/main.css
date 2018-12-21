@@ -173,13 +173,25 @@ h1, h2, h3, h4, h5, h6 {
 	color: white
 }
 
+/* flashes styling */
 
+.flashes{
+    margin:0 0;
+    background:#FFD6A3;
+    color:#000
 
+    list-style-type:none;
+    list-style:none;
+}
 
+.flshes ul {
+    background : #FFD6A3;
+    color:#000
+}
 
-
-
-
+article.flashes{
+    margin-bottom: 1em;
+}
 
 
 
