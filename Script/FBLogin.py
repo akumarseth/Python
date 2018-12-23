@@ -1,10 +1,9 @@
 from selenium import webdriver
 from time import sleep
-from getpass import getpass
+import getpass
 
 usr=input('Enter Email Id:')
-pwd = input('Enter Password:')
-# pwd = getpass("Enter pssword: ")
+pwd = getpass.getpass('Enter Password:')
 
 driver = webdriver.Chrome()
 driver.get('https://www.facebook.com/')

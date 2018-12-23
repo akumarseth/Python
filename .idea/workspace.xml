@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694a1ceb-7da2-4f02-89b9-40d79a2927bb" name="Default" comment="Removed BuildLowestDigit program">
-      <change beforePath="$PROJECT_DIR$/Flask/Build RESTAPI/myFlask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/Build RESTAPI/myFlask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script/SendMail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/SendMail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/wheel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script/FBLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/FBLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/active-directory-python-webapp-graphapi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/active-directory-python-webapp-graphapi/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SendMail/UsingGmail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/Script/FBLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,7 +88,6 @@
         <option value="$PROJECT_DIR$/Script/PlaceReversal.py" />
         <option value="$PROJECT_DIR$/Script/TipsAndTricks2.py" />
         <option value="$PROJECT_DIR$/Script/TipsAndTricks1.py" />
-        <option value="$PROJECT_DIR$/Script/FBLogin.py" />
         <option value="$PROJECT_DIR$/Script/FbChat.py" />
         <option value="$PROJECT_DIR$/Script/QRCode.py" />
         <option value="$PROJECT_DIR$/Flask/Intro/thermos/thermos/static/css/main.css" />
@@ -127,6 +107,7 @@
         <option value="$PROJECT_DIR$/Script/SendMail.py" />
         <option value="$PROJECT_DIR$/SendMail/UsingGmail.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Script/FBLogin.py" />
       </list>
     </option>
   </component>
@@ -155,12 +136,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Azure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="SendMail" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +148,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Python/Script/mysql.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -183,6 +159,7 @@
       <recent name="D:\Python\Flask" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python" />
       <recent name="D:\Python\Flask\Intro\thermos\thermos" />
       <recent name="D:\Python\Flask\Build RESTAPI" />
       <recent name="D:\Python\Scrapy\m1_d05_IntroSpider\m1_d05_IntroSpider\spiders" />
@@ -435,12 +412,12 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.15128593" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5024155" side_tool="true" weight="0.1845238" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3478261" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3478261" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.26247987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -742,37 +719,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/AppCreationScripts/Cleanup.ps1">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/AppCreationScripts/Cleanup.ps1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/AppCreationScripts/Configure.ps1">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/AppCreationScripts/Configure.ps1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/ReadmeFiles/topology.png">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/ReadmeFiles/topology.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/templates/display_graph_info.html">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/templates/display_graph_info.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/config.py">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/AppCreationScripts/apps.json">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/AppCreationScripts/apps.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
           <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/Flask_AAD/active-directory-python-webapp-graphapi/app.py">
+    <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
@@ -806,16 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Script/FBLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Script/SendMail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -823,6 +790,13 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -836,10 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Script/FBLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
