@@ -1,4 +1,4 @@
-# Declaring the list geek
+# Declaring the list
 list1 = ['Abhishek', 'Kumar', 'Seth', 'Python']
 
 # Directly printing the list

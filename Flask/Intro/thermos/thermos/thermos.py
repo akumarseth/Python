@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, flash
 from datetime import datetime
 # from logging import DEBUG
+from forms import BookmarkForm
 
 app = Flask(__name__)
 # app.logger.setLevel(DEBUG)
@@ -37,7 +38,9 @@ def index():
 
 @app.route('/add', methods=['GET', 'POST'])
 def add():
-    if request.method == "POST":
+    form = BookmarkForm()
+    # if request.method == "POST":
+    if form.validate_on_submit():
         url=request.form['url']
         store_bookmarks(url)
         # app.logger.debug("stored url: " + url)
