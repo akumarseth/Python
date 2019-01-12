@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694a1ceb-7da2-4f02-89b9-40d79a2927bb" name="Default" comment="Commit pending changes">
-      <change beforePath="$PROJECT_DIR$/NumPy/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NumPy/02.py">
+        <entry file="file://$PROJECT_DIR$/NumPy/04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+            <state relative-caret-position="256">
+              <caret line="157" column="77" selection-start-line="157" selection-start-column="77" selection-end-line="157" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -54,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Azure/AzureStorage.py" />
-        <option value="$PROJECT_DIR$/Script/OOPS.py" />
         <option value="$PROJECT_DIR$/Script/DayOfWeek.py" />
         <option value="$PROJECT_DIR$/DataStructure/Queue.py" />
         <option value="$PROJECT_DIR$/Script/BuildLowestDigit.py" />
@@ -105,12 +105,14 @@
         <option value="$PROJECT_DIR$/Script/circles.py" />
         <option value="$PROJECT_DIR$/NumPy/01.py" />
         <option value="$PROJECT_DIR$/NumPy/02.py" />
+        <option value="$PROJECT_DIR$/NumPy/03.py" />
+        <option value="$PROJECT_DIR$/NumPy/04.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="678" />
-    <option name="y" value="5" />
+    <option name="x" value="676" />
+    <option name="y" value="2" />
     <option name="width" value="695" />
     <option name="height" value="738" />
   </component>
@@ -180,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02">
+  <component name="RunManager" selected="Python.04">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,6 +217,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,27 +309,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TipsAndTricks1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script/TipsAndTricks1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="circles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,36 +330,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_circles.testCircleArea" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_circles.testCircleArea&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.RangeAndXRange" />
       <item itemvalue="Python.Flask_CRUD" />
-      <item itemvalue="Python.TipsAndTricks1" />
       <item itemvalue="Python.circles" />
-      <item itemvalue="Python tests.Unittests for test_circles.testCircleArea" />
       <item itemvalue="Python.01" />
       <item itemvalue="Python.02" />
+      <item itemvalue="Python.03" />
+      <item itemvalue="Python.04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.03" />
         <item itemvalue="Python.02" />
         <item itemvalue="Python.01" />
         <item itemvalue="Python.circles" />
-        <item itemvalue="Python tests.Unittests for test_circles.testCircleArea" />
-        <item itemvalue="Python.TipsAndTricks1" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +455,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="678" y="5" width="695" height="738" extended-state="0" />
+    <frame x="676" y="2" width="695" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49758455" weight="0.41732284" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49758455" weight="0.38110235" />
+      <window_info id="Structure" order="1" weight="0.2488189" />
       <window_info id="Favorites" order="2" sideWeight="0.5024155" side_tool="true" weight="0.1845238" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.38486314" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38347107" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43636364" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.3236715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -509,14 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Script/RangeAndXRange.py" />
-    <entry file="file://$PROJECT_DIR$/Script/GetFilesRecursive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestPackage/__init__.py" />
     <entry file="file://$PROJECT_DIR$/active-directory-python-webapp-graphapi/.github/PULL_REQUEST_TEMPLATE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -729,8 +730,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NumPy/02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+        <state relative-caret-position="341">
+          <caret line="175" column="3" lean-forward="true" selection-start-line="175" selection-start-column="3" selection-end-line="175" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumPy/03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="165" column="3" lean-forward="true" selection-start-line="165" selection-start-column="3" selection-end-line="165" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumPy/04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="157" column="77" selection-start-line="157" selection-start-column="77" selection-end-line="157" selection-end-column="77" />
         </state>
       </provider>
     </entry>
