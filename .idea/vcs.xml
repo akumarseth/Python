@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Flask/Build RESTAPI" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/active-directory-python-webapp-graphapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/youtube-playlist-downloader" vcs="Git" />
   </component>
 </project>
