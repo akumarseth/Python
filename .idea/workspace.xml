@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694a1ceb-7da2-4f02-89b9-40d79a2927bb" name="Default" comment="Commit pending changes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script/GUI_test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script/GUI_test_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-playlist-downloader/ytdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-playlist-downloader/ytdown.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/youtube-playlist-downloader" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Script/FbChat.py" />
-        <option value="$PROJECT_DIR$/Script/QRCode.py" />
         <option value="$PROJECT_DIR$/Flask/Intro/thermos/thermos/static/css/main.css" />
         <option value="$PROJECT_DIR$/Flask/Intro/thermos/thermos/templates/base.html" />
         <option value="$PROJECT_DIR$/Flask/Intro/thermos/thermos/templates/index.html" />
@@ -97,6 +95,8 @@
         <option value="$PROJECT_DIR$/youtube-playlist-downloader/ytdown.py" />
         <option value="$PROJECT_DIR$/Script/YoutubePlayListDownload.py" />
         <option value="$PROJECT_DIR$/../Python_Git_Repo/Youtube_downloader/YoutubePlayListDownload.py" />
+        <option value="$PROJECT_DIR$/Script/GUI_test.py" />
+        <option value="$PROJECT_DIR$/Script/GUI_test_02.py" />
       </list>
     </option>
   </component>
@@ -124,7 +124,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Script" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic_Program" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,19 +140,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\active-directory-python-webapp-graphapi" />
-      <recent name="D:\Python" />
-      <recent name="D:\Python\Flask\Intro\thermos\thermos" />
-      <recent name="D:\Python\Flask\Build RESTAPI" />
-      <recent name="D:\Python\Scrapy\m1_d05_IntroSpider\m1_d05_IntroSpider\spiders" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Script" />
       <recent name="D:\Python\Flask\Intro\thermos\thermos\templates" />
       <recent name="D:\Python\Flask\Intro\thermos\thermos\static" />
       <recent name="D:\Python\Flask\Intro\thermos\templates" />
       <recent name="D:\Python\Flask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\active-directory-python-webapp-graphapi" />
+      <recent name="D:\Python" />
+      <recent name="D:\Python\Flask\Intro\thermos\thermos" />
+      <recent name="D:\Python\Flask\Build RESTAPI" />
+      <recent name="D:\Python\Scrapy\m1_d05_IntroSpider\m1_d05_IntroSpider\spiders" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -440,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546686539777</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit pending changes">
+      <created>1547440594058</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547440594058</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -520,18 +527,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Flask/Build RESTAPI/myFlask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/myproject/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/admin.py" />
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/apps.py" />
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/models.py" />
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/tests.py" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/urls.py" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/hello/views.py" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/manage.py" />
@@ -761,6 +756,47 @@
           <folding>
             <element signature="e#149#158#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/GUI_test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/GUI_test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Program/check_primeNo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Program/factorial_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Program/factorial_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Program/calendar_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
