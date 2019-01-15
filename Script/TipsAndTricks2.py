@@ -72,4 +72,30 @@ print("****************************************")
 # To repeat the character n times, just multiply n with that character
 print ("G" + "e"*5 + "k"*4 + "s"*2) #Geeeeekkkkss
 
+print("*********************************************")
+
+# Python program to convert decimal number into binary, octal and hexadecimal number system
+
+# Change this line for a different result
+dec = 344
+
+print("The decimal value of",dec,"is:")
+print(bin(dec),"in binary.")
+print(oct(dec),"in octal.")
+print(hex(dec),"in hexadecimal.")
+
+print("******************************************************")
+
+# Program to find the ASCII value of the given character
+
+# Change this value for a different result
+c = 'p'
+
+# Uncomment to take character from user
+#c = input("Enter a character: ")
+
+print("The ASCII value of '" + c + "' is",ord(c))
+
+
+print("The character of 65 is ",chr(65))
 
