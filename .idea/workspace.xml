@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694a1ceb-7da2-4f02-89b9-40d79a2927bb" name="Default" comment="Commit pending changes">
-      <change beforePath="$PROJECT_DIR$/Azure/AzureStorage.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Azure/blob_example.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,20 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Azure/blob_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Flask/Build RESTAPI/myFlask.py" />
         <option value="$PROJECT_DIR$/Script/ConvertTime.py" />
         <option value="$PROJECT_DIR$/DataStructure/Stack.py" />
         <option value="$PROJECT_DIR$/Script/EqualProbability.py" />
@@ -95,6 +107,7 @@
         <option value="$PROJECT_DIR$/Script/HCF.py" />
         <option value="$PROJECT_DIR$/Azure/FaceQuickstart.py" />
         <option value="$PROJECT_DIR$/Azure/AzureStorage.py" />
+        <option value="$PROJECT_DIR$/Azure/blob_example.py" />
       </list>
     </option>
   </component>
@@ -464,6 +477,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.21331316" />
       <window_info id="Structure" order="1" weight="0.2488189" />
@@ -525,7 +539,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Django-POC/myproject/myproject/urls.py" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/guestbook/urls.py" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/guestbook/static/guestbook/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/Django-POC/myproject/guestbook/static/guestbook/bootstrap-theme.min.css" />
@@ -787,6 +800,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="17" lean-forward="true" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Azure/blob_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
