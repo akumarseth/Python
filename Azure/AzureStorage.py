@@ -3,9 +3,9 @@ from azure.storage.blob import BlockBlobService, PublicAccess
 
 def run_sample():
     try:
-        accountname = "azurecliflaskappsa"
-        accountkey = "x8zjgp8CTubnw + 74vYfQxIzfwBxGqxNvGwkUFWcCtwK23qc00TZdo76tHU8OKYlwXQsNHSG6iG2lwAMaZTopBg =="
-        container_name = "pycontainer"
+        accountname = "*****************"
+        accountkey = "************************************"
+        container_name = "************************"
 
         # Create the BlockBlockService that is used to call the Blob service for the storage account
         block_blob_service = BlockBlobService(account_name=accountname, account_key=accountkey)
