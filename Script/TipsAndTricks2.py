@@ -99,3 +99,13 @@ print("The ASCII value of '" + c + "' is",ord(c))
 
 print("The character of 65 is ",chr(65))
 
+print("**************************")
+
+mylist = ['abhi', 'ram', 'abkd','help', 'apple','apk','monika','sumit', 'helpdesk']
+matching_word = [x for x in mylist if 'k' in x]
+print(matching_word)
+
+matchers = ['ab','hel']
+matching = [s for s in mylist if any(xs in s for xs in matchers)]
+print(matching)
+
