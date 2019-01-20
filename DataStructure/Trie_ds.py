@@ -35,7 +35,7 @@ class Trie:
 		# If the key is prefix of trie node, 
 		# just marks leaf node 
 		pCrawl = self.root 
-		for level in len(key): 
+		for level in range(len(key)): 
 			index = self._charToIndex(key[level]) 
 
 			# if current character is not present 
@@ -56,7 +56,7 @@ class Trie:
 				return False
 			pCrawl = pCrawl.children[index] 
 
-		return pCrawl != None and pCrawl.isEndOfWord 
+		return pCrawl != None and pCrawl.isEndOfWord
 
 # driver function 
 def main(): 
@@ -65,7 +65,7 @@ def main():
 	keys = ["the","a","there","anaswe","any", 
 			"by","their"] 
 	output = ["Not present in trie", 
-			"Present in tire"] 
+			"Present in trie"] 
 
 	# Trie object 
 	t = Trie() 
@@ -74,12 +74,13 @@ def main():
 	for key in keys: 
 		t.insert(key) 
 
+	print(t.search("the"))
 	# Search for different keys 
-	print("{} ---- {}".format("the",output[t.search("the")])) 
-	print("{} ---- {}".format("these",output[t.search("these")])) 
-	print("{} ---- {}".format("their",output[t.search("their")])) 
-	print("{} ---- {}".format("thaw",output[t.search("thaw")])) 
-	print("{} ---- {}".format("asw",output[t.search("asw")])) 
+	# print("{} ---- {}".format("the",output[t.search("the")])) 
+	# print("{} ---- {}".format("these",output[t.search("these")])) 
+	# print("{} ---- {}".format("their",output[t.search("their")])) 
+	# print("{} ---- {}".format("thaw",output[t.search("thaw")])) 
+	# print("{} ---- {}".format("asw",output[t.search("asw")])) 
 
 if __name__ == '__main__': 
 	main()
