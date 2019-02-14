@@ -1,11 +1,14 @@
 from flask import Flask
+import os
+basedir = os.path.abspath(os.path.dirname(__file__))
+
 
 app = Flask(__name__)
 
-@app.route('/index/<Id>')
-def hello_world(Id):
-    sum = 10 + 20
-    return Id + str(sum) + 'Hello World'
+@app.route('/')
+def hello_world():
+    # sum = 10 + 20
+    return basedir
 
 
 if __name__ == '__main__':

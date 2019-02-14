@@ -34,7 +34,7 @@ class E(B,C): pass
 # a = A()
 # a.go()
 # a.stop()
-# # a.pause()
+# # # a.pause()
 
 # b = B()
 # b.go()
@@ -46,15 +46,15 @@ class E(B,C): pass
 # c.stop()
 # # c.pause()
 
-# d = D()
-# d.go()
-# d.stop()
-# d.pause()
+d = D()
+d.go()
+d.stop()
+d.pause()
 #
-e = E()
-e.go()
-e.stop()
-e.pause()
+# e = E()
+# e.go()
+# e.stop()
+# e.pause()
 
 
 

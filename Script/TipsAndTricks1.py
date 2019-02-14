@@ -121,13 +121,13 @@ print(list1) #[10, 2, 1, 5, 8, 39, 21, 65]
 print("*******************************")
 
 def weekdays():
-	# yield week[0]
+	yield week[0]
 	yield week[0+1]
 
 week = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 day = weekdays();
 print(day) #<generator object weekdays at 0x012633B0>
-print(next(day)) #Mon
+print(next(day)) #Sun
 
 
 
