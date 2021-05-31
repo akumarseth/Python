@@ -1,2 +1,6 @@
-venv
 .vscode
+Azure/venv_azure
+Basic_Program/venv
+DataScience/venv_datascience
+DataStructure/venv/datastructure
+
