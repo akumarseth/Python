@@ -11,7 +11,7 @@ s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
 
 # Authentication
-s.login("svcxyzz@gmail.com", "Abhishek@123")
+s.login("svcxyzz@gmail.com", "****")
 
 # message to be sent
 message = "Message_you_need_to_send"
